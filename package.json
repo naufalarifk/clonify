@@ -12,6 +12,7 @@
     "@headlessui/react": "^1.5.0",
     "@heroicons/react": "^1.0.5",
     "@tailwindcss/forms": "^0.4.0",
+    "formidable": "^3.2.1",
     "next": "12.1.0",
     "next-auth": "^4.2.1",
     "react": "17.0.2",
@@ -20,6 +21,7 @@
     "react-spotify-web-playback": "^0.9.1",
     "recoil": "^0.6.1",
     "spotify-web-api-node": "^5.0.2",
+    "superagent": "^7.1.1",
     "tailwind-scrollbar-hide": "^1.1.7"
   },
   "devDependencies": {
